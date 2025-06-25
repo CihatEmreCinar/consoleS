@@ -1,0 +1,14 @@
+C:\Users\emre.cinar\consoleS\Gun\obj\Debug\net9.0\Gun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre.cinar\consoleS\Gun\obj\Debug\net9.0\Gun.AssemblyInfoInputs.cache
+C:\Users\emre.cinar\consoleS\Gun\obj\Debug\net9.0\Gun.AssemblyInfo.cs
+C:\Users\emre.cinar\consoleS\Gun\obj\Debug\net9.0\Gun.csproj.CoreCompileInputs.cache
+C:\Users\emre.cinar\consoleS\Gun\bin\Debug\net9.0\Gun.exe
+C:\Users\emre.cinar\consoleS\Gun\bin\Debug\net9.0\Gun.deps.json
+C:\Users\emre.cinar\consoleS\Gun\bin\Debug\net9.0\Gun.runtimeconfig.json
+C:\Users\emre.cinar\consoleS\Gun\bin\Debug\net9.0\Gun.dll
+C:\Users\emre.cinar\consoleS\Gun\bin\Debug\net9.0\Gun.pdb
+C:\Users\emre.cinar\consoleS\Gun\obj\Debug\net9.0\Gun.dll
+C:\Users\emre.cinar\consoleS\Gun\obj\Debug\net9.0\refint\Gun.dll
+C:\Users\emre.cinar\consoleS\Gun\obj\Debug\net9.0\Gun.pdb
+C:\Users\emre.cinar\consoleS\Gun\obj\Debug\net9.0\Gun.genruntimeconfig.cache
+C:\Users\emre.cinar\consoleS\Gun\obj\Debug\net9.0\ref\Gun.dll
